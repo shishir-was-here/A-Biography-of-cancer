@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" role="img" aria-label="DNA is transcribed to RNA, which is translated into protein"><style>text{font-family:Arial,Helvetica,sans-serif;fill:#27312e}.head{font-size:18px;font-weight:700}.sub{font-size:12px;fill:#56645d}.stroke{stroke:#72897c;stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round}.panel{fill:#f4f7f4;stroke:#a8beb2;stroke-width:1.4}</style>
+<rect width="720" height="260" rx="16" fill="#fffdfa"/>
+<text x="360" y="31" class="head" text-anchor="middle">How genetic information becomes cellular activity</text>
+<rect x="28" y="82" width="178" height="114" rx="12" class="panel"/><rect x="272" y="82" width="178" height="114" rx="12" class="panel"/><rect x="516" y="82" width="178" height="114" rx="12" class="panel"/>
+<text x="117" y="119" class="head" text-anchor="middle">DNA</text><text x="117" y="143" class="sub" text-anchor="middle">Stored instructions</text><text x="117" y="163" class="sub" text-anchor="middle">in genes</text>
+<text x="361" y="119" class="head" text-anchor="middle">RNA</text><text x="361" y="143" class="sub" text-anchor="middle">Working message</text><text x="361" y="163" class="sub" text-anchor="middle">copied from DNA</text>
+<text x="605" y="119" class="head" text-anchor="middle">Protein</text><text x="605" y="143" class="sub" text-anchor="middle">Does the work</text><text x="605" y="163" class="sub" text-anchor="middle">and regulates cells</text>
+<path d="M215 137 H262 M254 130 L262 137 L254 144 M459 137 H506 M498 130 L506 137 L498 144" class="stroke"/>
+<text x="239" y="116" class="sub" text-anchor="middle">Copy</text><text x="482" y="116" class="sub" text-anchor="middle">Build</text>
+<text x="360" y="230" class="sub" text-anchor="middle">Simplified central flow; some viruses also copy RNA into DNA.</text></svg>
